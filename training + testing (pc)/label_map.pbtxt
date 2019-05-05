@@ -1,0 +1,8 @@
+item {
+  id: 1
+  name: 'Downstair'
+}
+item {
+  id: 2
+  name: 'Hole_Table'
+}
